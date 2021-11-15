@@ -1,0 +1,2 @@
+# magneticior
+Vamp Gateway Agent
